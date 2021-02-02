@@ -1,0 +1,75 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: Lato, Arial;
+  text-align: center;
+}
+
+p {color: white;
+  font-size:14pt;
+}
+
+li {
+  padding-bottom: 5px;
+  text-align: left;
+  font-size:15pt;
+  
+}
+
+.bo {
+  color: red;
+  background color: red;
+  padding:10px;
+  margin:5px;
+}
+
+.aaaa {
+ 
+	padding: 50px;
+			
+
+}
+
+.color_link {
+  color: red;
+   background-color: black;
+
+    width: 15px;
+
+    border: 10px solid red;
+
+    padding: 15px;
+
+    margin.top: 150px; 
+
+   //display:inline;
+
+}
+.color_linie {
+	color: solidred;
+}
+h2 {
+  padding-top:10px;
+  color: red;
+ 
+}
+h3 {
+	color: red
+}
+img {
+  font-size:15px;
+  align: center;
+}
+h4 {
+color: white;
+}
+
+hr {
+color: red;
+}
+h1 {
+	color: red;
+}
+h5 {
+	color: white;
+}
